@@ -1,0 +1,26 @@
+  Enchanter_Diamond_Boots:
+    name: Enchanter Diamond Boots
+    production_time: 10
+    inputs:
+      Diamond Boots:
+        material: DIAMOND_BOOTS
+        amount: 5
+      Emerald Block:
+        material: EMERALD_BLOCK
+        amount: 2
+      Diamond:
+        material: DIAMOND
+        amount: 32
+    outputs:
+      Enchanted Diamond Boots:
+        material: DIAMOND_BOOTS
+        amount: 5
+    enchantments:
+      Efficency 4
+        type: DIG_SPEED
+        level: 4
+        probability: 0.44
+      Unbreaking 3
+        type: DURABILITY
+        level: 3
+        probability: 0.22

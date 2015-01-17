@@ -1,0 +1,12 @@
+c:\users\gabe\documents\visual studio 2013\Projects\FactoryModEnchantments\FactoryModEnchantments\bin\Debug\FactoryModEnchantments.exe.config
+C:\Users\Gabe\documents\visual studio 2013\Projects\FactoryModEnchantments\FactoryModEnchantments\bin\Debug\FactoryModEnchantments.exe
+C:\Users\Gabe\documents\visual studio 2013\Projects\FactoryModEnchantments\FactoryModEnchantments\bin\Debug\FactoryModEnchantments.pdb
+C:\Users\Gabe\documents\visual studio 2013\Projects\FactoryModEnchantments\FactoryModEnchantments\obj\Debug\FactoryModEnchantments.csprojResolveAssemblyReference.cache
+C:\Users\Gabe\documents\visual studio 2013\Projects\FactoryModEnchantments\FactoryModEnchantments\obj\Debug\FactoryModEnchantments.exe
+C:\Users\Gabe\documents\visual studio 2013\Projects\FactoryModEnchantments\FactoryModEnchantments\obj\Debug\FactoryModEnchantments.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\FactoryModEnchantments\FactoryModEnchantments\bin\Debug\FactoryModEnchantments.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\FactoryModEnchantments\FactoryModEnchantments\obj\Debug\FactoryModEnchantments.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\FactoryModEnchantments\FactoryModEnchantments\obj\Debug\FactoryModEnchantments.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\FactoryModEnchantments\FactoryModEnchantments\bin\Debug\FactoryModEnchantments.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\FactoryModEnchantments\FactoryModEnchantments\bin\Debug\FactoryModEnchantments.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\FactoryModEnchantments\FactoryModEnchantments\obj\Debug\FactoryModEnchantments.csprojResolveAssemblyReference.cache
